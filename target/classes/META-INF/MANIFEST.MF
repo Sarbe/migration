@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: migration
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sarbe
+Implementation-Vendor-Id: com.amtrix
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/migration
+Created-By: Maven Integration for Eclipse
+
